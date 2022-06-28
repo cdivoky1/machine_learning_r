@@ -4,6 +4,7 @@ This repo builds on the [r binder](https://github.com/binder-examples/r) and [ju
 
  - Launch in Jupyter Lab: [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/cdivoky1/Jupyter-First-Application_python/master?urlpath=lab)
  - Launch in RStudio: [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/cdivoky1/Jupyter-First-Application_python/master?urlpath=rstudio)
+ - Launch in Jupyter Lab: [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/cdivoky1/Jupyter-First-Application_python/master?urlpath=lab)
 
 Example files included:
 
