@@ -4,7 +4,7 @@ This repo builds on the [r binder](https://github.com/binder-examples/r) and [ju
 
  - Launch in Jupyter Lab: [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/cdivoky1/Python_Stats_and_Plotting/master?urlpath=lab)
  - Launch in RStudio: [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/cdivoky1/Python_Stats_and_Plotting/master?urlpath=rstudio)
- - Launch Python Stats and Plotting Assignment html: [[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cdivoky1/Jupyter-First-Application_python.git/HEAD?labpath=assignment_python_stats.html)
+ - Launch Python Stats and Plotting Assignment html: [[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cdivoky1/Python_Stats_and_Plotting.git/HEAD?labpath=assignment_python_stats.html)
 
 Example files included:
 
