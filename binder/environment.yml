@@ -19,4 +19,7 @@ dependencies:
     - pandas
     - plotly
     - scikit-learn
+    - scipy
+    - statsmodels.formula.api
+    - seaborn
   
