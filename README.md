@@ -2,8 +2,8 @@
 
 This repo builds on the [r binder](https://github.com/binder-examples/r) and [jupyter lab binder](https://github.com/binder-examples/jupyterlab) and is complementary to the [multi-language-demo binder](https://github.com/binder-examples/multi-language-demo) with examples on using both R and python in both Jupyter Lab and RStudio.
 
- - Launch in Jupyter Lab: [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/cdivoky1/Jupyter-First-Application_python/master?urlpath=lab)
- - Launch in RStudio: [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/cdivoky1/Jupyter-First-Application_python/master?urlpath=rstudio)
+ - Launch in Jupyter Lab: [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/cdivoky1/Python_Stats_and_Plotting/master?urlpath=lab)
+ - Launch in RStudio: [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/cdivoky1/Python_Stats_and_Plotting/master?urlpath=rstudio)
  - Launch regression model html done in python on Jupyter Lab: [[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cdivoky1/Jupyter-First-Application_python.git/HEAD?labpath=first_jupyter_app_python.html)
 
 Example files included:
