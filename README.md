@@ -4,6 +4,7 @@ This repo builds on the [r binder](https://github.com/binder-examples/r) and [ju
 
  - Launch in Jupyter Lab: [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/cdivoky1/machine_learning_python/master?urlpath=lab)
  - Launch in RStudio: [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/cdivoky1/machine_learning_python/master?urlpath=rstudio)
+ - Launch Machine Learning in Python Assignment .ipynb file: [[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cdivoky1/machine_learning_python.git/HEAD?labpath=machine_learning_python.ipynb)
 
 Example files included:
 
