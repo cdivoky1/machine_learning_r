@@ -12,6 +12,7 @@ dependencies:
   - r-reshape2
   - r-plotly
   - r-stringr
+  - r-caret
   - pip
   - pip:
     - matplotlib
